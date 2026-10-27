@@ -1,0 +1,2 @@
+-keep class org.apache.commons.compress.** { *; }
+-dontwarn org.apache.commons.compress.**
